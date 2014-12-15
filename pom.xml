@@ -1195,9 +1195,9 @@
         </pluginManagement>
     </build>
     <scm>
-        <connection>scm:git:git://github.com/52North/SOS.git</connection>
-        <developerConnection>scm:git:ssh://git@github.com/52North/SOS.git</developerConnection>
-        <url>https://github.com/52North/SOS</url>
+        <connection>scm:git:git@github.com:USGS-CIDA/SOS.git</connection>
+        <developerConnection>scm:git:git@github.com:USGS-CIDA/SOS.git</developerConnection>
+        <url>https://github.com/USGS-CIDA/SOS</url>
     </scm>
     <repositories>
         <repository>
